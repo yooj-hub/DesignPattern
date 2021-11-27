@@ -10,11 +10,11 @@
 
   
 
-- 빌더(Builder)
+- 빌더(Builder) [builder](src/test/java/gof/creation/builder) 
 
   
 
-- 팩토리 메서드(Factory Method)
+- 팩토리 메서드(Factory Method) [factorymethod](src/test/java/gof/creation/factorymethod) 
 
   
 
