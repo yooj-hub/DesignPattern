@@ -18,7 +18,7 @@
 
   
 
-- 원형(Prototype)
+- 원형(Prototype) [prototype](src/test/java/gof/creation/prototype) 
 
   
 
